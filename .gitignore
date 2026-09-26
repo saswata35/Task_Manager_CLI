@@ -1,0 +1,4 @@
+.venv
+data.json
+task-manager-cli.log
+__pycache__
